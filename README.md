@@ -49,3 +49,13 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [OpenAI](https://openai.com/)\
 [Google Bard](https://bard.google.com/)\
 [Google Colab](https://colab.new)
+
+## Repos
+[openai-cookbook](https://github.com/openai/openai-cookbook)\
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)\
+[langchain](https://github.com/hwchase17/langchain)\
+[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)\
+[whisper](https://github.com/openai/whisper)\
+[dalai](https://github.com/cocktailpeanut/dalai)\
+[everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt)\
+[backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
