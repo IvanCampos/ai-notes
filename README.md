@@ -35,7 +35,7 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [The 2.5%: On Understanding Innovation](https://medium.com/slalom-technology/the-2-5-on-understanding-innovation-691a0c466e26)
 
 ## Papers
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762)\
 [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)\
 [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)\
 [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
