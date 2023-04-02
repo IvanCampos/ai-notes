@@ -50,7 +50,7 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [Google Bard](https://bard.google.com/)\
 [Google Colab](https://colab.new)
 
-## Repos
+## Repositories
 [openai-cookbook](https://github.com/openai/openai-cookbook)\
 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)\
 [langchain](https://github.com/hwchase17/langchain)\
