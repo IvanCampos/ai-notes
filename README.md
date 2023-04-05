@@ -13,6 +13,7 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [The Product Owner’s Guide to ChatGPT: 10 Must-Know Tricks](https://medium.com/@ivancampos/the-product-owners-guide-to-chatgpt-10-must-know-tricks-6b33f1a9a7ae)
 
 ## Voice
+[Whisper API Pricing and Use Cases](https://medium.com/sopmac-labs/whisper-api-pricing-and-use-cases-6b05ef655015)\
 [ElevenLabs AI Voice Cloning is the Future](https://medium.com/sopmac-labs/elevenlabs-ai-voice-cloning-is-the-future-9f79c7e32e43)\
 [Teaching Alexa to speak with a Boston accent](https://medium.com/slalom-technology/teaching-alexa-to-speak-with-a-boston-accent-1301c6668deb)\
 [The Era of Voice: From Keyboards to Vocal Cords](https://medium.com/slalom-technology/the-era-of-voice-from-keyboards-to-vocal-cords-5f891705a5ea)
