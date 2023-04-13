@@ -12,6 +12,9 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [How to Turn Siri into a Boston Native with ChatGPT](https://medium.com/sopmac-labs/how-to-turn-siri-into-a-boston-native-with-chatgpt-9947e2f4bfd6)\
 [The Product Owner’s Guide to ChatGPT: 10 Must-Know Tricks](https://medium.com/@ivancampos/the-product-owners-guide-to-chatgpt-10-must-know-tricks-6b33f1a9a7ae)
 
+## Vector Databases
+[Vector Databases as Memory for your AI Agents](https://medium.com/sopmac-ai/vector-databases-as-memory-for-your-ai-agents-986288530443)
+
 ## Voice
 [Whisper API Pricing and Use Cases](https://medium.com/sopmac-labs/whisper-api-pricing-and-use-cases-6b05ef655015)\
 [ElevenLabs AI Voice Cloning is the Future](https://medium.com/sopmac-labs/elevenlabs-ai-voice-cloning-is-the-future-9f79c7e32e43)\
