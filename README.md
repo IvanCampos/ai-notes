@@ -6,6 +6,7 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [GPT-4 API Pricing Analysis](https://medium.com/sopmac-labs/gpt-4-api-pricing-analysis-a507a4bf9829)
 
 ## ChatGPT
+[Prompt Engineering Tips for ChatGPT](https://medium.com/sopmac-ai/prompt-engineering-tips-for-chatgpt-73c3dca6f99d)\
 [ChatGPT App Store for AI Plugins](https://medium.com/sopmac-ai/chatgpt-app-store-for-ai-plugins-d1fbd91a141e)\
 [Create a ChatGPT Discord Bot](https://medium.com/sopmac-labs/create-a-chatgpt-discord-bot-8b853c62b08d)\
 [ChatGPT API Pricing Comparison](https://medium.com/sopmac-labs/chatgpt-api-pricing-comparison-229267df2d91)\
