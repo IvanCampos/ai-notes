@@ -13,6 +13,9 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [How to Turn Siri into a Boston Native with ChatGPT](https://medium.com/sopmac-labs/how-to-turn-siri-into-a-boston-native-with-chatgpt-9947e2f4bfd6)\
 [The Product Owner’s Guide to ChatGPT: 10 Must-Know Tricks](https://medium.com/@ivancampos/the-product-owners-guide-to-chatgpt-10-must-know-tricks-6b33f1a9a7ae)
 
+## Chatbots
+[ChatGPT LangChain Example for Chatbot Q&A](https://medium.com/sopmac-ai/chatgpt-langchain-example-for-chatbot-q-a-a8b6ef40bbb6)
+
 ## Vector Databases
 [Vector Databases as Memory for your AI Agents](https://medium.com/sopmac-ai/vector-databases-as-memory-for-your-ai-agents-986288530443)
 
