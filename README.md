@@ -26,6 +26,7 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [The Era of Voice: From Keyboards to Vocal Cords](https://medium.com/slalom-technology/the-era-of-voice-from-keyboards-to-vocal-cords-5f891705a5ea)
 
 ## How Tos
+[How to get LangChain to work with AWS Lambda](https://medium.com/sopmac-labs/langchain-aws-lambda-serverless-q-a-chatbot-203470b9906f)\
 [Create Presentation Slides with AI](https://medium.com/sopmac-ai/create-presentation-slides-with-ai-eaa81cd21028)\
 [TLDW: How to Summarize YouTube Videos](https://medium.com/sopmac-ai/tl-dw-using-ai-to-cut-through-clickbait-complexity-6d3ac311da16)\
 [How to Improve Search with Conversational AI](https://medium.com/sopmac-ai/how-to-improve-search-with-conversational-ai-da1526aacc5f)\
