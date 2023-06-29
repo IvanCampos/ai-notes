@@ -14,6 +14,7 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [The Product Owner’s Guide to ChatGPT: 10 Must-Know Tricks](https://medium.com/@ivancampos/the-product-owners-guide-to-chatgpt-10-must-know-tricks-6b33f1a9a7ae)
 
 ## Chatbots
+[LangChain + AWS Lambda = Serverless Q&A Chatbot](https://medium.com/sopmac-labs/langchain-aws-lambda-serverless-q-a-chatbot-203470b9906f)\
 [ChatGPT LangChain Example for Chatbot Q&A](https://medium.com/sopmac-ai/chatgpt-langchain-example-for-chatbot-q-a-a8b6ef40bbb6)
 
 ## Vector Databases
