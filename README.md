@@ -33,6 +33,7 @@ Notes about Artificial Intelligence by [@ivancampos](https://twitter.com/ivancam
 [Create a Serverless Search Engine using the OpenAI Embeddings API](https://medium.com/sopmac-ai/create-a-serverless-search-engine-using-the-openai-embeddings-api-50e5ac8ca6e3)
 
 ## OpenAI API
+[OpenAI Function Calling Examples](https://medium.com/sopmac-ai/openai-function-calling-examples-a438268e0a77)\
 [OpenAI API JavaScript Jumpstart](https://medium.com/sopmac-labs/openai-api-javascript-jumpstart-e38ef578f90c)\
 [OpenAI API Pricing in Words per Dollar](https://medium.com/sopmac-labs/openai-api-pricing-in-words-per-dollar-9eeac857aee7)
 
